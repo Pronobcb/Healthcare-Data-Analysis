@@ -58,7 +58,9 @@ The dataset includes:
 - Department & Procedure  
 - Diagnosis & Service Type  
 - Geographic Data (City/State)  
-
+---
+## 📂 Report
+- <a href="https://github.com/Pronobcb/Healthcare-Data-Analysis/blob/main/Healthcare%20Analysis%20Report.pdf"> Report View </a> 
 ---
 ##💡 Skills Demonstrated
 - Data Analysis
