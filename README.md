@@ -41,7 +41,7 @@ This project presents an interactive **Healthcare Dashboard** designed to analyz
 ---
 
 ## ⚙️ Tools & Technologies
-- Power BI / Excel / Tableau  
+- Power BI / Excel / DAX
 - Data Cleaning & Transformation  
 - Data Visualization  
 
