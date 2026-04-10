@@ -1,7 +1,17 @@
 # 🏥 Healthcare-Data-Analysis
 
 ## 📌 Project Overview
-This project presents an interactive **Healthcare Dashboard** designed to analyze financial and operational data within the healthcare sector. The dashboard provides insights into billing, treatment costs, insurance coverage, and patient trends to support data-driven decision-making.
+This project presents an interactive Healthcare Dashboard designed to analyze billing, treatment costs, insurance coverage, and patient trends.
+
+- The goal is to identify key cost drivers and provide insights to support data-driven decision-making in healthcare operations.
+---
+## 🎯 Business Problem
+Healthcare organizations need to understand:
+- What drives high treatment costs  
+- Which departments generate the most revenue  
+- How insurance impacts billing  
+
+- This dashboard helps answer these questions.
 
 ---
 
@@ -15,13 +25,10 @@ This project presents an interactive **Healthcare Dashboard** designed to analyz
 ---
 
 ## 📊 Key Metrics
-- **Total Billing Amount:** $3.36M  
-- **Treatment Cost:** $2.63M  
-- **Insurance Coverage:** $2.23M  
-- **Out-of-Pocket Cost:** $1.13M  
-- **Medication Cost:** $546.04K  
-- **Total Room Charges:** $179.63K  
-
+- Total Billing Amount: $3.36M  
+- Treatment Cost: $2.63M  
+- Insurance Coverage: $2.23M  
+- Out-of-Pocket Cost: $1.13M  
 ---
 
 ## 📸 Dashboard Preview
@@ -41,7 +48,9 @@ This project presents an interactive **Healthcare Dashboard** designed to analyz
 ---
 
 ## ⚙️ Tools & Technologies
-- Power BI / Excel / DAX
+- Power BI
+- Excel
+- DAX
 - Data Cleaning & Transformation  
 - Data Visualization  
 
@@ -61,6 +70,11 @@ The dataset includes:
 ---
 ## 📂 Report
 - <a href="https://github.com/Pronobcb/Healthcare-Data-Analysis/blob/main/Healthcare%20Analysis%20Report.pdf"> Report View </a> 
+---
+## 🚀 Project Impact
+- Identified major cost drivers in healthcare  
+- Improved understanding of billing distribution  
+- Supported data-driven decision-making
 ---
 ##💡 Skills Demonstrated
 - Data Analysis
