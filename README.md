@@ -1,4 +1,4 @@
-# 🏥 Healthcare-Data-Analysis
+# 🏥 Healthcare-Data-Analysis-PowerBI
 
 ## 📌 Project Overview
 This project presents an interactive Healthcare Dashboard designed to analyze billing, treatment costs, insurance coverage, and patient trends.
